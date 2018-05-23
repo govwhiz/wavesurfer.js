@@ -1,5 +1,4 @@
 dist/wavesurfer.dev.js
-dist/plugin/*.js
 !/dist/plugin/*.min.js
 dist/**/*.map
 
